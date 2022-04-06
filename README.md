@@ -5,6 +5,3 @@
 Hello, I'm @omanuelcosta. A Material Engineer and small scale developer.
   
 <a href="mailto:omanuelcosta@protonmail.com?subject=Mini-curso de LaTeX"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
-  
-
-[^1]: é recomendado o leitor Adobe Acrobat Reader versão maior ou igual a 2021
