@@ -1,5 +1,5 @@
 <p align="center"> 
-<a href=https://www.youtube.com/channel/UC7bMBdlD9U-qJD8q2tTgKVw'><img src='https://img.shields.io/youtube/channel/subscribers/UC7bMBdlD9U-qJD8q2tTgKVw?style=social'></a>&nbsp;&nbsp;&nbsp;<a href=https://twitter.com/omanuelcosta><img src='https://img.shields.io/twitter/follow/omanuelcosta?style=social'></a>&nbsp;&nbsp;&nbsp;<a href=https://github.com/omanuelcosta/><img src='https://img.shields.io/github/followers/omanuelcosta?style=social'></a>
+<a href=https://www.youtube.com/channel/UC7bMBdlD9U-qJD8q2tTgKVw><img src='https://img.shields.io/youtube/channel/subscribers/UC7bMBdlD9U-qJD8q2tTgKVw?style=social'></a>&nbsp;&nbsp;&nbsp;<a href=https://twitter.com/omanuelcosta><img src='https://img.shields.io/twitter/follow/omanuelcosta?style=social'></a>&nbsp;&nbsp;&nbsp;<a href=https://github.com/omanuelcosta/><img src='https://img.shields.io/github/followers/omanuelcosta?style=social'></a>
 </p>
 
  ### Hello, I'm @omanuelcosta...
