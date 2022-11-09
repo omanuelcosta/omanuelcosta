@@ -4,7 +4,7 @@
 
  ### Hello, I'm @omanuelcosta...
 <p align="left">
-...a Material Engineer and small scale developer. Currently a MSc student in Material Science in the Polytechnic School of the University of São Paulo, Brazil. I actually don't code that much but I have been doing some science with code such as X-ray diffraction pattern and finite element simulations in C++, Python and even Fortran. I write in LaTeX, and that's about it.
+...a Materials Engineer and small scale developer. Currently a MSc student in Material Science in the Polytechnic School of the University of São Paulo, Brazil. I just a hobbyst who has been doing some science with code such as X-ray diffraction patterns and finite element simulations in C++, Python and even Fortran. I write in LaTeX, and that's about it.
 </p>
  
  
